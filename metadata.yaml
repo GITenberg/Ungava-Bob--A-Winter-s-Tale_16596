@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1361
     wikipedia: http://en.wikipedia.org/wiki/Dillon_Wallace
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16596#Ungava-Bob--A-Winter-s-Tale
 gutenberg_issued: '2005-08-25'
 gutenberg_type: Text
 identifiers:
